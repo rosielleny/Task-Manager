@@ -1,0 +1,6 @@
+admin;Add users;Add new users to task manager;2022-11-20;2022-11-25;No
+admin;add functions to task manager;Refactor code to use functions;2022-11-28;2022-11-25;No
+admin;Add users;Register new users to task manager;2022-11-28;2022-11-25;No
+admin;Check Edit;check edit function is working;2022-11-30;2022-11-28;Yes
+rosie;Check Function;check the gr function is working;2022-11-30;2022-11-29;No
+james;Check Option;check the ds option is working;2022-11-30;2022-11-29;No
